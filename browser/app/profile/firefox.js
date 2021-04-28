@@ -398,7 +398,7 @@ pref("browser.search.geoSpecificDefaults", false);
 pref("browser.search.geoSpecificDefaults.url", "");
 
 // US specific default (used as a fallback if the geoSpecificDefaults request fails).
-pref("browser.search.defaultenginename.US",      "data:text/plain,browser.search.defaultenginename.US=Bing");
+pref("browser.search.defaultenginename.US",      "data:text/plain,browser.search.defaultenginename.US=DuckDuckGo");
 pref("browser.search.order.US.1",                "data:text/plain,browser.search.order.US.1=Bing");
 pref("browser.search.order.US.2",                "data:text/plain,browser.search.order.US.2=Qwant");
 pref("browser.search.order.US.3",                "data:text/plain,browser.search.order.US.3=DuckDuckGo");
