@@ -23,10 +23,6 @@ lag behind in implementing (usually due to not being high priority). High reques
 Waterfox is released under the Mozilla Public License Version 2.0:
 
 	https://www.mozilla.org/MPL/2.0/
-	
-Waterfox binaries are kindly being redistributed free of charge by:
-
-  [<img src="https://s3-us-west-2.amazonaws.com/elof/stackpath-logo-reversed.png" style="width:300px;">](https://www.stackpath.com/?utm_campaign=Partner%20Display&utm_source=Partner%20Display&utm_medium=WaterFox)
 
 From Mozilla's Readme.txt:
 
